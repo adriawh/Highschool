@@ -1,7 +1,7 @@
 # Highschool
 A collection of small and fun things I developed in highschool.
 
-##Games:
+### Games:
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
 Play [Gravity-Turn](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Gravity-turn.html)
@@ -10,7 +10,7 @@ Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highs
 
 Play [Boring Tetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/tetris.html)
 
-##Other
+### Other
 Watch a [Loading screen](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Satisfying.html)
 
 Had alot of fun with javascript,html and css. 
