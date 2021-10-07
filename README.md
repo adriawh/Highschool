@@ -1,5 +1,5 @@
 # Highschool
-A collection of small and fun things I developed in highschool.
+A collection of fun things I developed in highschool on the side of the actual assignments.
 
 ### Games:
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
