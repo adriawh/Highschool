@@ -4,11 +4,11 @@ A collection of fun things I developed in highschool on the side of the actual a
 ### Games:
 Play [AirBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/AirBall.html)
 
-Play [Gravity-Turn](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Gravity-turn.html)
+Play [GravityTurn](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Gravity-turn.html)
 
 Play [DodgeBall](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/DodgeBall.html)
 
-Play [Boring Tetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/tetris.html)
+Play [OneBlockTetris](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/OneBlockTetris.html)
 
 ### Other
 Watch a [Loading screen](https://htmlpreview.github.io/?https://github.com/adriawh/Highschool/blob/main/Satisfying.html)
